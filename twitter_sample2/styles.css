@@ -1,0 +1,75 @@
+body {
+	width: 100%;
+}
+
+
+ .box {
+ 	margin-top: 2px;
+ 	width: 100%;
+    height: 300px;
+    border: 1px solid grey;
+    box-sizing: border-box;
+    background-image: url(http://pre11.deviantart.net/e6e0/th/pre/f/2012/075/e/5/castle_greyskull_by_leodiamond-d4sz6yz.jpg);
+ 	background-position: center;
+ }
+.skeletor {
+	position: relative;
+  	top: -70px;
+  	left: 150px;
+  	z-index: 3;
+}
+
+.well {
+	width: 200px;
+	position: relative;
+  	left: 154px;
+	top: -80px;
+}
+.tweettopbox {
+ 	margin-top: -612px;
+ 	width: 100%;
+    height: 60px;
+    border: 1px solid grey;
+    box-sizing: border-box;
+ 	background-position: center;
+}
+
+.movieposter {
+	display: inline;
+    width: 9px;
+  	padding: 5px; 
+  	float: right;
+  	margin-right: 110px;
+  	margin-top: 10px;
+  	color: purple;
+  	margin-left: 45px;
+}
+.button {
+	color: purple;
+	margin-right: 300px;
+}
+.tweetbox {
+ 	margin-top: 12px;
+ 	margin-right: 15px;
+ 	margin-left: 20px;
+ 	width: 800px;
+    height: 600px;
+    border: 1px solid grey;
+    box-sizing: border-box;
+ 	background-position: center;
+ 	float: right;
+ }
+ .tweetboxtext {
+  	display: inline-block;
+    width: 0px;
+  	padding: 0px; 
+  	float: center;
+  	margin-right: 150px;
+  	margin-top: 20px;
+  	color: purple;
+  	margin-left: 22px;
+}
+#skeletweet {
+	margin-left: 10px;
+}
+
